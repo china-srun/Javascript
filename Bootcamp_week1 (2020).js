@@ -1,9 +1,6 @@
 // Exercise 01
 // console.log("hello world")
 
-const { read } = require("fs")
-
-
 // Exercise 02
 // console.log("welcome to the Bootcamp\nGood luck and have fun!")
 
